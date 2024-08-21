@@ -81,6 +81,10 @@ Commit Changes: Use git commit -m "Your commit message" to save the staged chang
 Add a remote repository (if not already done): git remote add origin [repository URL].
 Push changes: git push -u origin [branch-name] (often main or master).
 
+What Are Commits? Definition: Commits are snapshots of changes made to files in a repository at a specific point in time. How They Help Tracking Changes: Commits provide a history of modifications, allowing you to review and understand changes over time. Version Management: Each commit has a unique identifier, making it easy to revert to previous versions or compare different states of the project.
+
+
+
 
 
 
