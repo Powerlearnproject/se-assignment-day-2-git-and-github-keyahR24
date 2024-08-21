@@ -21,3 +21,18 @@ Branching and Merging: Branching allows for isolated development, where features
 Conflict Resolution: When conflicts arise, version control systems provide mechanisms to resolve them. This ensures that changes from multiple contributors are accurately incorporated without losing data.
 
 Audit Trail: Version control provides an audit trail of who made what changes and why. This accountability is crucial for tracking progress, debugging issues, and maintaining code quality
+
+Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
+answer: Sign In to GitHub
+
+Open GitHub: Go to github.com.
+
+Sign In: Click the “Sign in” button at the top-right corner of the page and enter your GitHub credentials. Create a New Repository
+
+Go to Your Profile: Click on your profile picture in the top-right corner of the page to open the drop-down menu. Select "Your repositories": From the drop-down menu, select “Your repositories.” This will take you to a page listing your existing repositories.
+
+New Repository: Click the green “New” button on the right side of the page or the “New repository” button at the top-right corner of the repositories list.
+
+Configure the Repository Repository Name: Enter a name for your repository. This name must be unique within your GitHub account. Description (Optional): Add a description of your repository to provide more context about what it will contain or its purpose. Visibility: Public: Anyone can see this repository. You can choose this option if you want to make your code open to the public. Private: Only you and collaborators you specify can see this repository. This option is useful for private or sensitive projects. Initialize This Repository (Optional): Add a README file: This file is used to describe your project. It's a good practice to include this file as it helps users understand the purpose of your repository. Add .gitignore: A .gitignore file specifies which files and directories Git should ignore. GitHub provides templates for different languages and frameworks. 
+Choose a license: Select a license if you want to specify the terms under which others can use your code. GitHub offers several common licenses to choose from. Create Repository: Click the green “Create repository” button to finalize the creation of your new repository.
+
